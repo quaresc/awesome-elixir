@@ -1406,7 +1406,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 ## Search
 *Libraries related to search indexing, search algorithms and search clients.*
-
+* [algoliax](https://github.com/WTTJ/algoliax) - An Algolia library for Elixir, usable with Ecto schemas.
 * [elasticsearch](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
 * [elasticsearch_elixir_bulk_processor](https://github.com/sashman/elasticsearch_elixir_bulk_processor) - An efficient and flexible way to insert into Elasticsearch.
 * [giza_sphinxsearch](https://github.com/Tyler-pierce/giza_sphinxsearch) - Client for Sphinx Search compatible with Manticore.
